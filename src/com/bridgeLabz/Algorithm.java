@@ -21,6 +21,7 @@ public class Algorithm {
 
 			permutations(newCandidate, newRemaining);
 		}
+		
 	}
 
 	public static void main(String[] args) {
